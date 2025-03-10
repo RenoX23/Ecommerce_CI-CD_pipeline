@@ -145,7 +145,7 @@ terraform apply -auto-approve
 
 ### Clone the Repo
 ```bash
-git clone https://github.com/<your-username>/ecommerce-ci-cd.git
+git clone https://github.com/RenoX23/ecommerce-ci-cd.git
 cd ecommerce-ci-cd
 ```
 
@@ -181,4 +181,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Let me know if you want me to tweak this further or add instructions for **AWS Elastic Beanstalk** / **Kubernetes (EKS)** deployments!
+

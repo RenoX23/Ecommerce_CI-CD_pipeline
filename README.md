@@ -1,8 +1,5 @@
-# Ecommerce_CI-CD_pipeline
 
-Here's a complete `README.md` for your **CI/CD automated deployment of an e-commerce website** project. You can customize it with your project name, screenshots, and links if needed.
 
----
 
 # 🚀 E-Commerce Website with CI/CD Automated Deployment
 
@@ -165,8 +162,8 @@ docker-compose up --build
 
 ## 🙋 Author
 **Your Name**  
-- GitHub: [@yourusername](https://github.com/yourusername)  
-- LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourlinkedin)
+- GitHub: [@yourusername](https://github.com/RenoX23)  
+- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/renoldstephen/)
 
 ---
 

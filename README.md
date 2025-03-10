@@ -19,7 +19,6 @@ This project is a simple, fully dockerized **e-commerce web application** deploy
 - [Infrastructure as Code (Terraform)](#infrastructure-as-code-terraform)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Author](#author)
 
 ---

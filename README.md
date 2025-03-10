@@ -162,8 +162,8 @@ docker-compose up --build
 
 ## 🙋 Author
 **Your Name**  
-- GitHub: [@yourusername](https://github.com/RenoX23)  
-- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/renoldstephen/)
+- GitHub: [RenoX23](https://github.com/RenoX23)  
+- LinkedIn: [renoldstephen](https://www.linkedin.com/in/renoldstephen/)
 
 ---
 

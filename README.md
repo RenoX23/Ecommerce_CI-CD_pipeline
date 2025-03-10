@@ -163,7 +163,7 @@ docker-compose up --build
 ## 📷 Screenshots
 | Home Page                 | Products Section              |
 |---------------------------|-------------------------------|
-| ![Home](public/images/homepage.png) | ![Products](public/images/products.png) |
+| ![Home](C:\Users\Renold Stephen\Desktop\Internship Assesments\ecommerce-app\public\images\home.png) | ![Products](public/images/products.png) |
 
 ---
 

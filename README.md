@@ -145,8 +145,8 @@ terraform apply -auto-approve
 
 ### Clone the Repo
 ```bash
-git clone https://github.com/RenoX23/ecommerce-ci-cd.git
-cd ecommerce-ci-cd
+git clone https://github.com/RenoX23/Ecommerce_CI-CD_pipeline.git
+cd Ecommerce_CI-CD_pipeline
 ```
 
 ### Run Locally (Optional)

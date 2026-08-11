@@ -3,7 +3,7 @@
 
 # 🚀 E-Commerce Website with CI/CD Automated Deployment
 
-This project is a simple, fully dockerized **e-commerce web application** deployed using an automated **CI/CD pipeline**. It demonstrates best practices for containerization, infrastructure as code (IaC) with Terraform, and GitHub Actions for continuous integration and deployment.
+This project is a simple, fully dockerized **e-commerce web application** deployed using an automated **CI/CD pipeline**. It demonstrates best practices for containerization, infrastructure as code (IaC) with Terraform, and GitHub Actions for continuous integration and deployments.
 
 ---
 

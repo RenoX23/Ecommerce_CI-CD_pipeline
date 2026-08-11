@@ -28,7 +28,7 @@ The goal of this project is to develop and deploy a **modern e-commerce web appl
 - Automated deployments through **CI/CD pipelines**.
 - Infrastructure provisioning via **Terraform**.
 
-The pipeline automates:
+This pipeline automates:
 - Code build & testing.
 - Docker image building & pushing to Docker Hub.
 - Remote server deployment using SSH.
